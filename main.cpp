@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     //-----------------SELECTION-----------------------
     // start timer  
     gettimeofday(&initialTimeSelection, NULL);
-    //get my sorted array with selection
+    //get my sorted array with selection 
     int *sortedArraySelection = algos.selectionSorting(mySecondArray, size);
     // stop timer
     gettimeofday(&finishTimeSelection, NULL);
