@@ -1,6 +1,6 @@
 /* 
  * File:   SortingAlgorithms.cpp
- * Author: user
+ * Author: this is a change from FABIAN
  * 
  * Created on January 11, 2014, 11:15 AM
  */
